@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+body {
+	background-image: url('https://pixabay.com/get/57e3d0404e50ac14ea9d867ac52930781722dfe05452784d75297dd7/euro-1353420.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+}
+header{
+	background-color: DodgerBlue;
+	width: 100%;
+	min-height: 100px;
+	display: flex;
+	align-items: flex-end;
+}
+main {
+	background-color: rgba(255,255,255, .9);
+	min-height: 400px;
+	padding: 20px;
+}
+.container{
+	width: 800px;
+	margin: 0 auto;
+}
+footer{
+	background-color: #111;
+}
+footer section{
+	background-color: black;
+	color: 
+}
